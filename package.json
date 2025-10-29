@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  },
+  "name": "smarthealth",
+  "version": "1.0.0",
+  "description": "**#Ambulance Patrol Drone System** A comprehensive emergency medical response system that combines drone technology with real-time video streaming to provide faster emergency response and enable remote medical professionals to assess situations before the ambulance arrives.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
